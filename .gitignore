@@ -1,0 +1,38 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+[Rr]ecordings/
+[Ee]xported[Oo]bj/
+
+# IDE and generated project files
+.vs/
+.idea/
+.gradle/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp_proj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.svclog
+sysinfo.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
